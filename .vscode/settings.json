@@ -3,13 +3,13 @@
         {
             "previewLimit": 50,
             "server": "localhost",
-            "port": 5432,
+            "port": 5433,
             "driver": "PostgreSQL",
-            "name": "postgrescon ",
-            "database": "postgres",
+            "name": "PG Local",
+            "database": "demo",
             "username": "postgres",
             "password": "Tuan@2592003",
-            "connectionTimeout": 30
+            "connectionTimeout": 40
         }
     ]
 }
